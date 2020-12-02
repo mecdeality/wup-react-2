@@ -1,0 +1,19 @@
+.inp-add:focus{
+  border-color:red;
+  box-shadow: 0 0 0 0.2rem rgba(167, 40, 40, 0.25);
+}
+
+.btn-info:focus{
+  background-color: #17a2b8;
+  border-color:none;
+  box-shadow: none;
+  border-color: #17a2b8;
+}
+.bold{
+  background-color: #138496;
+  border-color:#127a8a;
+}
+.bold:focus{
+  background-color: #138496;
+  border-color:#127a8a;
+}
