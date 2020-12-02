@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wup-react-2/static/css/main.e38b1b25.chunk.css",
+    "main.js": "/wup-react-2/static/js/main.5359f640.chunk.js",
+    "main.js.map": "/wup-react-2/static/js/main.5359f640.chunk.js.map",
+    "runtime-main.js": "/wup-react-2/static/js/runtime-main.a77dd714.js",
+    "runtime-main.js.map": "/wup-react-2/static/js/runtime-main.a77dd714.js.map",
+    "static/js/2.332072bf.chunk.js": "/wup-react-2/static/js/2.332072bf.chunk.js",
+    "static/js/2.332072bf.chunk.js.map": "/wup-react-2/static/js/2.332072bf.chunk.js.map",
+    "static/js/3.493c7dac.chunk.js": "/wup-react-2/static/js/3.493c7dac.chunk.js",
+    "static/js/3.493c7dac.chunk.js.map": "/wup-react-2/static/js/3.493c7dac.chunk.js.map",
+    "index.html": "/wup-react-2/index.html",
+    "static/css/main.e38b1b25.chunk.css.map": "/wup-react-2/static/css/main.e38b1b25.chunk.css.map",
+    "static/js/2.332072bf.chunk.js.LICENSE.txt": "/wup-react-2/static/js/2.332072bf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a77dd714.js",
+    "static/js/2.332072bf.chunk.js",
+    "static/css/main.e38b1b25.chunk.css",
+    "static/js/main.5359f640.chunk.js"
+  ]
+}
